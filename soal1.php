@@ -8,7 +8,7 @@ if (isset ($_POST['Login'])) {
         echo "Silahkan masuk<br>";
         echo "<a href='soal2.php'>Daftar TNI</a><br>";
         echo "<a href='soal3.php'>Shoping</a><br>";
-        echo "<a href='soal4.php'>LogOUT</a><br>";
+        echo "<a href='soal4.php'>LogOut</a><br>";
 
     }else {
         die ("Anda belum login! Anda tidak berhak masuk ke halaman
